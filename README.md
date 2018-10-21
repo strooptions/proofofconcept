@@ -2,7 +2,8 @@
 requires Python 2.7
 see requirements.txt for other dependencies
 
-run process.py in a python environment \n
+run process.py in a python environment
+
 currently running on the Stellar testnet with fake accounts, generated each time the program is run (except for the fake XRP seller) \n
 run write() to see an option written \n
 run see(systemdb) to see the state of the contract system, including: \n
